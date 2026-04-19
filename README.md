@@ -1,4 +1,4 @@
-# Courier Optimizer V4 (Bosta)
+# Courier Optimizer
 
 A full-stack geographic optimization engine designed to allocate deliveries to couriers. It intelligently partitions a fleet's delivery footprint to minimize travel area, drastically reduce courier territory overlap, and firmly enforce workload capacity constraints (minimum and maximum deliveries per courier).
 
